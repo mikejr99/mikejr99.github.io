@@ -1,11 +1,11 @@
 # Site settings
-author: Miguel Felix
-title: 
+author: Mike Felix
+title: Mike's Coding Blog
 header-img: img/home-bg.png
 email: mikeyfelix99@gmail.com
-copyright_name: Miguel Felix
+copyright_name: Mike Felix
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog for coding course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mikejr99
